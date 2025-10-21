@@ -1,0 +1,7 @@
+npm install vue vue-router axios
+npm install json-server save-dev
+npm create vue@latest
+cd <folder>
+npm install
+npm install json-server --save-dev
+npm install axios
